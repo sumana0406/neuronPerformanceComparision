@@ -2,9 +2,9 @@ Benchmarking Spiking Neuron Models: LIF vs Izhikevich
 
 This mini-project compares two widely used spiking neuron models:
 
-Leaky Integrate-and-Fire (LIF) — low-cost, efficient model
+Leaky Integrate-and-Fire (LIF) :  low-cost, efficient model
 
-Izhikevich Neuron — biologically realistic and expressive
+Izhikevich Neuron : biologically realistic and expressive
 
 Both models were implemented and simulated using Brian2, with execution time and spike behavior analyzed on identical runs.
 
