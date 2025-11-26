@@ -5,9 +5,8 @@ prefs.codegen.target = 'numpy'
 
 duration = 500*ms
 
-########################
 # LIF MODEL
-########################
+
 start_lif = time.time()
 
 tau = 10*ms
