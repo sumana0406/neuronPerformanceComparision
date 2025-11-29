@@ -62,6 +62,14 @@ Interpretation
 Future Work
 
 - Add synaptic connections and population-level dynamics
+    - <img width="1250" height="573" alt="image" src="https://github.com/user-attachments/assets/8b7549a6-df89-41ff-a251-1c25ad119c91" />
+    - <img width="1248" height="573" alt="image" src="https://github.com/user-attachments/assets/3741e41a-e5f3-42cb-8da0-e5d16078c308" />
+    - Performance difference:
+      - Execution Time (10,000 neurons):
+      - LIF:        0.8012 seconds
+      - Izhikevich: 1.2119 seconds
+      - 1.2119 / 0.8012 ~ 1.51 -> LIF is 51% faster than Izhikevich.
+      
 - Extend benchmarks under varying current inputs
 - Evaluate energy cost in neuromorphic hardware simulators
 
